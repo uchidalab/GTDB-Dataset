@@ -1,4 +1,5 @@
 # GTDB-Datasets
+![CC BY-NC-ND](https://raw.githubusercontent.com/uchidalab/GTDB-Dataset/master/Cc-by-nc-nd_icon.png)
 
 ## Introduction
 To promote further research into OCR for scientific documents, we releases databases that may be suitable for research outside of InftyProject development. We have carefully scrutinized the data in these releases, and expect that the databases can be relied upon with high confidence. Nevertheless, if you experience any problems with them, please contact us.
