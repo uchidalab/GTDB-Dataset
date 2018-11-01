@@ -75,12 +75,8 @@ In GTDB-1 dataset
 * Arkiv_1971_141_163.csv: [Arkiv för Matematik, 9(1), 141-163 1971.](https://link.springer.com/article/10.1007/BF02383641)
 * Arkiv_1997_185_199.csv: [Arkiv för Matematik, 35, 185-199, 1997.](https://link.springer.com/article/10.1007/BF02559598)
 * BAMS_1971_1974.csv: [Bull. Amer. Math. Soc., 77(1), 157-159, 1971](http://www.ams.org/journals/bull/1971-77-01/S0002-9904-1971-12644-7/),  
+[ibid., 77(1), 160-163, 1971](http://www.ams.org/journals/bull/1971-77-01/S0002-9904-1971-12646-0/),  
 [ibid., 80(6), 1219-1222,1974.](https://www.ams.org/journals/bull/1974-80-06/S0002-9904-1974-13686-4/),  
-* BAMS_1971_1974.csv: [Bull. Amer. Math. Soc., 77(1), 157-159, 1971](http://www.ams.org/journals/bull/1971-77-01/S0002-9904-1971-12644-7/),
-
-[ibid., 80(6), 1219-1222,1974.](https://www.ams.org/journals/bull/1974-80-06/S0002-9904-1974-13686-4/)
-
-* BAMS_1971_1974.csv: [Bull. Amer. Math. Soc., 77(1), 157-159, 1971](http://www.ams.org/journals/bull/1971-77-01/S0002-9904-1971-12644-7/), [ibid., 80(6), 1219-1222,1974.](https://www.ams.org/journals/bull/1974-80-06/S0002-9904-1974-13686-4/)
 * BAMS_1998_123_143.csv: [Bull. Amer. Math. Soc., 35(2), 123-143, 1998.](http://www.ams.org/journals/bull/1998-35-02/S0273-0979-98-00745-9/home.html)
 * BSMF_1970_165_192.csv: [Bull. Soc. Math. France, 98, 165-192, 1970.](http://www.numdam.org/item/?id=BSMF_1970__98__165_0)
 * BSMF_1998_245_271.csv: [Bull. Soc. Math. France, 126, 245-271, 1998.](http://www.numdam.org/item/BSMF_1998__126_2_245_0/)
