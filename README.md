@@ -63,17 +63,23 @@ Professor emeritus of Kyushu University
 ## List of articles
 
 In GTDB-1 dataset
-* ActaM_1970_37_63.csv: [Acta Math., 124, 2, 37-63, 1970.](https://projecteuclid.org/euclid.acta/1485889650)
-* ActaM_1998_283_305.csv: [Acta Math., 181, 2, 283-305, 1998.](https://projecteuclid.org/euclid.acta/1485891181)
 * AIF_1970_493_498.csv: [Ann. Inst. Fourier, 20, 1, 493-498, 1970.](http://aif.cedram.org/aif-bin/item?id=AIF_1970__20_1_493_0)
 * AIF_1999_375_404.csv: [Ann. Inst. Fourier, 49, 2, 375-404, 1999.](http://aif.cedram.org/aif-bin/item?id=AIF_1999__49_2_375_0)
 * AM_chapter12.csv: [Analytical Mechanics (pp. 493-557). Cambridge Univ. Press, 1998.](https://www.cambridge.org/core/books/analytical-mechanics/special-relativity/283A31E1632C7E028C596DD7F902FC03)
+* ASENS_1970_273_284.csv: [Ann. Sci. Ecole Norm. Sup., 4d ser, t.3, 273-284, 1970.](http://www.numdam.org/item/?id=ASENS_1970_4_3_3_273_0)
+* ASENS_1970_273_284.csv: [Ann. Sci. Ecole Norm. Sup., 4e ser, t.30, 367-384, 1997.](http://www.numdam.org/item/ASENS_1997_4_30_3_367_0/)
+* ActaM_1970_37_63.csv: [Acta Math., 124, 2, 37-63, 1970.](https://projecteuclid.org/euclid.acta/1485889650)
+* ActaM_1998_283_305.csv: [Acta Math., 181, 2, 283-305, 1998.](https://projecteuclid.org/euclid.acta/1485891181)
 * AnnM_1970_550_569.csv: [Ann. Math., 91, 550-569, 1970.](https://www.jstor.org/stable/1970637?seq=1#metadata_info_tab_contents)
 * AnnMS_1971_157_173.csv: [Ann. Math. Studies, 66, 157-173, 1971.](https://press.princeton.edu/titles/13.html)
 * Arkiv_1971_141_163.csv: [Arkiv för Matematik, 9(1), 141-163 1971.](https://link.springer.com/article/10.1007/BF02383641)
 * Arkiv_1997_185_199.csv: [Arkiv för Matematik, 35, 185-199, 1997.](https://link.springer.com/article/10.1007/BF02559598)
-* ASENS_1970_273_284.csv: [Ann. Sci. Ecole Norm. Sup., 4d ser, t.3, 273-284, 1970.](http://www.numdam.org/item/?id=ASENS_1970_4_3_3_273_0)
-* ASENS_1970_273_284.csv: [Ann. Sci. Ecole Norm. Sup., 4e ser, t.30, 367-384, 1997.](http://www.numdam.org/item/ASENS_1997_4_30_3_367_0/)
+* BAMS_1971_1974.csv: [Bull. Amer. Math. Soc., 77(1), 157-159, 1971](http://www.ams.org/journals/bull/1971-77-01/S0002-9904-1971-12644-7/),  
+[ibid., 80(6), 1219-1222,1974.](https://www.ams.org/journals/bull/1974-80-06/S0002-9904-1974-13686-4/),  
+* BAMS_1971_1974.csv: [Bull. Amer. Math. Soc., 77(1), 157-159, 1971](http://www.ams.org/journals/bull/1971-77-01/S0002-9904-1971-12644-7/),
+
+[ibid., 80(6), 1219-1222,1974.](https://www.ams.org/journals/bull/1974-80-06/S0002-9904-1974-13686-4/)
+
 * BAMS_1971_1974.csv: [Bull. Amer. Math. Soc., 77(1), 157-159, 1971](http://www.ams.org/journals/bull/1971-77-01/S0002-9904-1971-12644-7/), [ibid., 80(6), 1219-1222,1974.](https://www.ams.org/journals/bull/1974-80-06/S0002-9904-1974-13686-4/)
 * BAMS_1998_123_143.csv: [Bull. Amer. Math. Soc., 35(2), 123-143, 1998.](http://www.ams.org/journals/bull/1998-35-02/S0273-0979-98-00745-9/home.html)
 * BSMF_1970_165_192.csv: [Bull. Soc. Math. France, 98, 165-192, 1970.](http://www.numdam.org/item/?id=BSMF_1970__98__165_0)
