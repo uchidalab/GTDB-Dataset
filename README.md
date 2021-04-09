@@ -60,6 +60,20 @@ Masakazu Suzuki:
 [Science Accessibility Net](http://www.sciaccess.net/en/),  
 Professor emeritus of Kyushu University
 
+Citation:
+
+W. Ohyama, M. Suzuki and S. Uchida, "Detecting Mathematical Expressions in Scientific Document Images Using a U-Net Trained on a Diverse Dataset," in IEEE Access, vol. 7, pp. 144030-144042, 2019, doi: 10.1109/ACCESS.2019.2945825. [link](https://ieeexplore.ieee.org/document/8861044/references#references)
+
+    @ARTICLE{8861044,
+        author={W. {Ohyama} and M. {Suzuki} and S. {Uchida}},
+        journal={IEEE Access}, 
+        title={Detecting Mathematical Expressions in Scientific Document Images Using a U-Net Trained on a Diverse Dataset}, 
+        year={2019},
+        volume={7},
+        number={},
+        pages={144030-144042},
+        doi={10.1109/ACCESS.2019.2945825}}
+
 ## List of articles
 
 In GTDB-1 dataset
